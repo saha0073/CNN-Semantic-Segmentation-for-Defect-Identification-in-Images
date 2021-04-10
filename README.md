@@ -18,6 +18,16 @@ In this project, we consider the problem of using supervised machine learning al
 
 In this project, we employed supervised CNN autoencoder architecture. An example of the input image and the predicted mask is shown.
  ![pic](https://github.com/saha0073/Supervised-Defect-Identification-from-the-Electronic-Device-Images/blob/main/slider.PNG)
+ 
+ ## Data
+ 
+Our data for this project is comprised of two samples, which we designate as the training and test sets. Our images were stored in the TIFF format. The training dataset has 2100 images and test dataset has 450 images. The different color spots in the target images represent different types of defects.
+ 
+ ## Result
+ 
+ We estimated the performance of various CNN models: UNet, VGGNet, and compared the performances. We find that UNet demonstrates better performance and  achieved over 90% accuracy, 0.75 dice coefficient. An image of the training process is shown below.
+ ![pic](https://github.com/saha0073/Supervised-Defect-Identification-from-the-Electronic-Device-Images/blob/main/training.PNG)
+ 
 
 
 ## References
