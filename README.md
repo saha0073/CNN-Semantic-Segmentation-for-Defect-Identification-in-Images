@@ -17,7 +17,7 @@ In this project, we consider the problem of using supervised machine learning al
 ## Methodology
 
 In this project, we employed supervised CNN autoencoder architecture. An example of the input image and the predicted mask is shown.
- ![pic](https://github.com/saha0073/Todo-App-JavaScript/blob/main/todo-app-UI.PNG)
+ ![pic](https://github.com/saha0073/Supervised-Defect-Identification-from-the-Electronic-Device-Images/blob/main/slider.PNG)
 
 
 ## References
