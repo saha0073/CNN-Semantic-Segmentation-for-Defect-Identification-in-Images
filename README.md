@@ -1,8 +1,8 @@
-# Supervised-Defect-Identification-from-the-Electronic-Device-Images
+# CNN-Defect-Identification-from-the-Electronic-Device-Images
 
 ## Skills Employed
 
-* Modelling Techniques: CNN Models - UNet, VGGNet, SegNet, convolutional autoencoder-decoder.
+* Modelling Techniques: Supervised CNN Models - UNet, VGGNet, SegNet, convolutional autoencoder-decoder.
 
 * Image Processing Techniques: Normalize RGB, Encode mask to RGB, Grayscale conversion.
 
