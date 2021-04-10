@@ -16,7 +16,7 @@ In this project, we consider the problem of using supervised machine learning al
 
 ## Methodology
 
-In this project, we employed supervised CNN autoencoder architecture. An example of the input image and the predicted mask is shown below.
+In this project, we employed supervised CNN autoencoder architecture. An example of the input image and the predicted mask is shown.
  ![pic](https://github.com/saha0073/Todo-App-JavaScript/blob/main/todo-app-UI.PNG)
 
 
