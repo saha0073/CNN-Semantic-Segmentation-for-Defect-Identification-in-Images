@@ -21,7 +21,7 @@ In this project, we employed supervised CNN autoencoder architecture. An example
  
  ## Data
  
-Our data for this project is comprised of two samples, which we designate as the training and test sets. Our images were stored in the TIFF format. The training dataset has 2100 images and test dataset has 450 images. The different color spots in the target images represent different types of defects.
+Our data for this project is comprised of two samples, which we designate as the training and test sets. The slider images act as the input and mask images are the target labels. The training dataset has 2100 images and test dataset has 450 images. The different color spots in the target masks represent different types of defects.
  
  ## Result
  
